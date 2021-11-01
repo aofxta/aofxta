@@ -61,5 +61,5 @@
      <a>
     <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=2bbc8a&color=51a549"
          alt="">
-    and more ...
+    <img src="https://img.shields.io/badge/Code-and%20more-informational?style=flat&logo=code&logoColor=2bbc8a&color=51a549" alt="">
 </p>
