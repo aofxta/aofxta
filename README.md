@@ -1,7 +1,7 @@
 <div align="center">
   <h1> ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! </h1>
 </div>
-<img src="https://github.com/aofxta/aofxta/master/assets/Sky_ofLove.jpg">
+<img src="assets/Sky_ofLove.png">
 <div align="center">
   <h3> 👨🏻 Sky_ofLove | 💻 Software Engineer | 🌏 Thailand </h3>
 </div>
