@@ -19,6 +19,7 @@
          alt="">
     <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=2bbc8a&color=51a549"
          alt="">
+    <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=windows&logoColor=2bbc8a&color=51a549" alt="">
     <img src="https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visual-studio-code&logoColor=2bbc8a&color=51a549"
          alt="">
     <img src="https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go&logoColor=2bbc8a&color=51a549" alt="">
